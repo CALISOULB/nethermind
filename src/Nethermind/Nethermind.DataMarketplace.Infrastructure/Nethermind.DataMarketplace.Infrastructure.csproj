@@ -11,7 +11,7 @@
         <PackageReference Include="Microsoft.Extensions.Configuration.CommandLine" Version="6.0.0" />
         <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="6.0.0" />
         <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="6.0.0" />
-        <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
+        <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
         <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
         <PackageReference Include="MongoDB.Driver" Version="2.11.5" />
     </ItemGroup>
